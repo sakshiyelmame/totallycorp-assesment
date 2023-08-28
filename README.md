@@ -1,6 +1,6 @@
 # totallycorp-assesment
 
-### Date: 15 July 2023 📅
+### Date: 27 August 2023 📅
 
 ### Description
 - This is an iOS assessment project that I built using Swift and using SwiftUI design architecture to achieve the end result.
